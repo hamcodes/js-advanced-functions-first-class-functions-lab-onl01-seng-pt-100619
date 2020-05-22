@@ -1,4 +1,4 @@
 // Code your solution in this file!
-const returnFirstTwoDrivers(array) = {
+const returnFirstTwoDrivers = {Function(array)
   return array[-2];
 }
